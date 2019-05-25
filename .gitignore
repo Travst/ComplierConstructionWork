@@ -1,0 +1,9 @@
+
+# qt
+Debug/
+
+# idea
+.idea/
+out/
+*.log
+*.iml
